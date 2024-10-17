@@ -19,3 +19,4 @@ This repository contains code and configuration files for Google Cloud Data Anal
 
 ## Architecture
 
+salesetl.png
