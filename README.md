@@ -18,5 +18,4 @@ This repository contains code and configuration files for Google Cloud Data Anal
 
 
 ## Architecture
-
-salesetl.png
+<img src="https://github.com/realabrar1/sales-data-pipeline/blob/main/salesetl.png"/>
